@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PilihBABADAN LORBACEMBADERBAGIBAJULA_1e7638</name>
+   <tag></tag>
+   <elementGuidId>59ffc617-9329-4cd4-b833-d3c0a43d6a10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#district</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='district']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>district</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select is-invalid form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PilihBABADAN LORBACEMBADERBAGIBAJULANBAKURBALEREJOBALEREJOBALONGBANARANBANARANBANCONGBANDUNGANBANGETBANGUN SARIBANGUNSARIBANJAREJOBANJAREJOBANJARSARIBANJARSARI KULONBANJARSARI WETANBANTENGANBANYUKAMBANGBATOKBEDOHOBEKETOKBENDOBENERBETEKBIBRIKBLABAGANBLIMBINGBODAGBOLOBONGSOPUTROBRUMBUNBUDURANBUKURBULAKBULAK REJOBULUCABEANCANDI MULYOCERMODAGANGANDARMOREJODAWUHANDEMANGANDEMPELANDIMONGDINDENDOHODOLOPODUMPILDUNGUSDURENDURENANGADENGGANDULGARONGEDONGANGEGERGEMARANGGLONGGONGGLONGGONGGOLANGROBOGANGUNUNGSARIJATIREJOJATISARIJERUKGULUNGJETISJIWANJOGOBAYANJOGODAYUHJOHOJOMBLANGJOSENANKAIBONKAJANGKALIABUKALIGUNTINGKANIGOROKANUNGKARANGREJOKAREKARTOHARJOKEBON SARIKEBONAGUNGKEBONAGUNGKEBONSARIKEDONDONGKEDUNG JATIKEDUNG MARONKEDUNG REJOKEDUNGBANTENGKEDUNGREJOKEJURONKELUNKENONGOREJOKEPELKEPETKERANGKERIKKERTOBANYONKERTOSARIKETANDANKETAWANGKINCANG WETANKLAGEN DSKLAGEN SERUTKLANGONKLECOREJOKLEGENKLEGEN SERUTKLITIKKLOROGANKLUMPITKLUMUTANKRADINANKRAJANKRANDEGANKRANGGANKRERETKRESEKKROKEHKUANGSENKUNCENKUWIRANKUWUKWADUNGANKWANGSENLEBAK AYULEMBAHLUWOROMADIGONDOMADIUN LORMANCAANMANGUHARJOMANISREJOMAOSPATIMEJAYANMENDAKMETESIHMLILIRMOJOMANISMOJOPURNOMOJORAYUNGMOJOREJOMOJOREJOMORANGMRUWAKMUNENGMUNGGUTNAMBANGAN KIDULNAMBANGAN LORNAMPUNGADIREJONGALENGAMPELNGEGONGNGENGORNGEPEHNGETREPNGLAMBANGANNGLAMESNGLANDUKNGLANDUNGNGRANGETORO-ORO OMBOPACINANPADASPAGOTANPAJARANPALURPANDEANPANGGUNG DSPANGONGANGANPATIHANPILANG BANGOPILANGKENCENGPILANGREJOPLUMPUNGREJOPRAMBONPUCANG ANOMPUCANG REJOPUCANGREJOPULEPULEREJOPURWOREJOPURWOREJOPURWOSARIPUTATRANDU ALASREJOMULYOREJOSARIREJOSARISAMBEREJOSAMBIREJOSANGENSARENGSAWAHANSEBAYISEGULUNGSENDANGREJOSEWULANSIDODADISIDOMULYOSIDOMULYOSIDOREJOSIDOREJOSIDOREJOSINGGAHANSIRAPANSLAMBURSOBRAHSOGATENSOGOSUGIH WARASSUKOLILOSUKOREJOSUKOREJOSUKOSARISUKOWIDISULUKSUMBER BENDOSUMBERBENINGSUMBEREJOSUMBEREJOSUMBEREJOSUMBERGANDUSUMBERSARITAKERANTAMANTAMBAK MASTANJUNG REJOTANJUNGREJOTAPELANTAWANG REJOTAWANGREJOTEGALARUMTEGUHANTEMPURSARITILENGTIRAKTIRONTULUNGTULUNGREJOUTERANWADUKWARUK KALONGWARUREJOWAYUTWINONGWINONGOWONOASRIWONOAYUWONOREJOWUNGUXXX</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;district&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='district']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/section[2]/form/div[2]/div[2]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KECAMATAN'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Kecamatan'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Terdekat'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+   </webElementXpaths>
+</WebElementEntity>
